@@ -12,7 +12,7 @@
 </div>
 
 <br/>
-Репозитории проектов находятся здесь 👉 [Habsida GitHub](https://github.com/SchoiceHabsida)
+Репозитории проектов находятся здесь 👉 [Habsida GitHub](https://github.com/orgs/SchoiceHabsida/repositories)
 
 ---
 
