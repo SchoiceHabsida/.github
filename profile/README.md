@@ -10,8 +10,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlMldqhAt3QYEh2/giphy.gif" width="600" height="300"/>
 </div>
-
 <br/>
+
 Репозитории проектов находятся здесь 👉 [Habsida GitHub](https://github.com/orgs/SchoiceHabsida/repositories)
 
 ---
