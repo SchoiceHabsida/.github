@@ -8,3 +8,5 @@ project-repo
 projectRepo
 project_repo
 ```
+
+[Typescript/Javascript convention](./typescript.md)
