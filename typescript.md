@@ -1,3 +1,11 @@
+## Development
+
+- Put `.env.example` in project root and keep it updated.
+- Install `prettier` in your code editor and use this [configuration file](./files/prettier).
+- Install `eslint` in your code editor and use this [configuration file](./files/eslint).
+- If you are working on `typescript` project use this [tsconfig.json](./files/tsconfig).
+- If you starting a new project install [husky](https://typicode.github.io/husky).
+
 ## Naming convention
 
 ### Types, interfaces and classes - Pascal case
@@ -5,7 +13,7 @@
 ```ts
 interface User {}
 
-type Session = {};
+type Session = {}
 
 class User {
   constructor() {}
@@ -54,9 +62,9 @@ const userData = {};
 
 ```ts
 // Good:
-import config from '@/config/common'
-import config from '@/config'
+import config from '@/config/common';
+import config from '@/config';
 
 // Bad:
-import config from '../../../config'
+import config from '../../../config';
 ```
