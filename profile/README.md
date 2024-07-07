@@ -9,4 +9,4 @@ projectRepo
 project_repo
 ```
 
-- [Typescript/Javascript convention](./typescript.md)
+- [Typescript/Javascript convention](../typescript.md)
