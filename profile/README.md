@@ -13,8 +13,8 @@ project_repo
 ## Coding convention and config files
 
 - [Typescript/Javascript convention](../typescript.md)
-- [tsconfig](../files/tsconfig)
-- [Biome](../files/biome.json)
+- [Typescript configuration](../files/tsconfig.json)
+- [Biome -- linter, formatter, analyzer](../files/biome.json)
 
 
 ## Starter templates
