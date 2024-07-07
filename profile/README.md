@@ -10,3 +10,4 @@ project_repo
 ```
 
 - [Typescript/Javascript convention](../typescript.md)
+- [Biome config](./files/biome.json)
