@@ -24,6 +24,41 @@
             }
           }
         }
+      },
+      "style": {
+        "useNamingConvention": {
+          "level": "error",
+          "options": {
+            "requireAscii": true,
+            "enumMemberCase": "CONSTANT_CASE",
+            "conventions": [
+              {
+                "selector": {
+                  "kind": "objectLiteralMember"
+                },
+                "formats": ["camelCase", "PascalCase", "CONSTANT_CASE"]
+              },
+              {
+                "selector": {
+                  "kind": "interface"
+                },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": {
+                  "kind": "typeMember"
+                },
+                "formats": ["PascalCase", "CONSTANT_CASE", "camelCase"]
+              },
+              {
+                "selector": {
+                  "kind": "typeAlias"
+                },
+                "formats": ["camelCase", "CONSTANT_CASE", "PascalCase"]
+              }
+            ]
+          }
+        }
       }
     }
   },
