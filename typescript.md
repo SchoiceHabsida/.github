@@ -1,8 +1,7 @@
 ## Development
 
 - Put `.env.example` in project root and keep it updated.
-- Install `prettier` in your code editor and use this [configuration file](./files/prettier).
-- Install `eslint` in your code editor and use this [configuration file](./files/eslint).
+- Install `biome` in your code editor and use this [configuration file](./files/biome.json).
 - If you are working on `typescript` project use this [tsconfig.json](./files/tsconfig).
 - If you starting a new project install [husky](https://typicode.github.io/husky).
 
